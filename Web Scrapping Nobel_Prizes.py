@@ -98,4 +98,5 @@ with open("Nobel_Prizes.csv", mode="w", encoding="utf-8") as df:
 df = pd.read_csv("Nobel_Prizes.csv")
 df
 df.head()
+print('done!!')
 #:)
